@@ -1,0 +1,27 @@
+[
+  {
+    "src": "/images/gallery_hotel.jpg",
+    "alt": "Intro Gallery Hotel Picture",
+    "class": ""
+  },
+  {
+    "src": "/images/gallery_room.jpg",
+    "alt": "Intro Gallery Room Picture",
+    "class": ""
+  },
+  {
+    "src": "/images/gallery_pool.jpg",
+    "alt": "Intro Gallery Pool Picture",
+    "class": ""
+  },
+  {
+    "src": "/images/gallery_dining.jpg",
+    "alt": "Intro Gallery Dining Picture",
+    "class": ""
+  },
+  {
+    "src": "/images/gallery_outside.jpg",
+    "alt": "Intro Gallery Outside Picture",
+    "class": "hidesm"
+  }
+]
